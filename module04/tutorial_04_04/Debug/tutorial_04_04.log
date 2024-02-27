@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Module4Assignment.vcxproj, Module4Milestone.vcxproj, Module5Milestone.vcxproj, Module6Milestone.vcxproj, tutorial_04_04.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  tutorial_04_04.vcxproj -> C:\Users\rayya\OneDrive\Desktop\CS 330 (Comp Graphics & Visualization)\Project\Project\Debug\Project.exe
+  'xcopy' is not recognized as an internal or external command,
+  operable program or batch file.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: The command "xcopy /y "C:\Users\rayya\OneDrive\Desktop\CS 330 (Comp Graphics & Visualization)\Project\Project\bin\glew-2.2.0\Release\Win32\glew32.dll" "C:\Users\rayya\OneDrive\Desktop\CS 330 (Comp Graphics & Visualization)\Project\Project\Debug\"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: 
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" exited with code 9009.
